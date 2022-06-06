@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "cat-tinder",
-    "slug": "cat-tinder",
+    "name": "catinder",
+    "slug": "catinder",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
